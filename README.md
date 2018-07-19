@@ -6,7 +6,9 @@ ESTA NORMATIVA SE ENCUENTRA EN CONSTRUCCION. EL TEXTO QUE FIGURA A CONTINUACIÓN
 Revisión 3 (2015): vigente desde OSHWDem 2015
 
 # Objetivo
-Dos robots compiten entre sí simulando los enfrentamientos humanos de sumo. No se permite a los robots la utilización de armas ni girar sobre sí mismos, y el único objetivo es empujar al robot oponente para sacarlo del Dohyo. El torneo se lleva a cabo mediante el sistema de eliminación simple al mejor de 3 rondas. (Valoramos la clasificación estilo suizo o una liguilla con cabezas de serie en caso de tener ya la clasificación anterior). El robot que primero consiga dos puntos pasará a la siguiente fase del torneo.
+Dos robots compiten entre sí simulando los enfrentamientos humanos de sumo. No se permite a los robots la utilización de armas ni girar sobre sí mismos, y el único objetivo es empujar al robot oponente para sacarlo del Dohyo. El torneo puede llevarse a cabo por diferentes vías, en función del número de participantes en el evento y el tiempo disponible.
+- Sistema de clasificación mediante liguilla previa.
+- Sistema suizo. 
 El reglamento se detalla a continuación.
 
 # Sección 1: Definición de los enfrentamintos de Sumo Robot
