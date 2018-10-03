@@ -26,7 +26,6 @@ La línea del borde se marca como un anillo circular blanco de un ancho apropiad
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">Clase</th>
       <th style="text-align: center">Altura</th>
       <th style="text-align: center">Diámetro</th>
       <th style="text-align: center">Material</th>
@@ -38,7 +37,6 @@ La línea del borde se marca como un anillo circular blanco de un ancho apropiad
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">Mini</td>
       <td style="text-align: center">19mm</td>
       <td style="text-align: center">77 cm</td>
       <td style="text-align: center">MDF</td>
@@ -50,7 +48,6 @@ La línea del borde se marca como un anillo circular blanco de un ancho apropiad
   </tbody>
 </table>
 <tr>
-      <th style="text-align: left">Clase</th>
       <th style="text-align: center">Altura</th>
       <th style="text-align: center">Diámetro</th>
       <th style="text-align: center">Material</th>
@@ -62,16 +59,15 @@ La línea del borde se marca como un anillo circular blanco de un ancho apropiad
 * Líneas de inicio (shikiri-sen) Estas medidas puoden variar un 5%
 
 - Artículo 4.- Exterior del Dohyo
-Debe haber un espacio, adecuado a cada clase de robot, fuera del borde exterior del Dohyo. Este espacio puede ser de cualquier color, material o forma. Este área, con el Dohyo en el medio, se va a llamar el “área del Dohyo”. Cualquier marca o parte de la plataforma del Dohyo fuera de las dimensiones mínimas también serán considerados en el área del Dohyo.
+Debe haber un espacio, adecuado a cada clase de robot, fuera del borde exterior del Dohyo. Este espacio puede ser de cualquier color, material o forma. Este área, con el Dohyo en el medio, se va a llamar el “área del Dohyo” o ring. Cualquier marca o parte de la plataforma del Dohyo fuera de las dimensiones mínimas también serán considerados en el área del Dohyo.
 # Sección 3: Reglamentación para los Robots
 - Artículo 5.- Especificaciones
 La placa controladora del robot, en caso de haberla, debe estar basada en tecnologías abiertas. También son válidas las plataformas o kits de robótica basados en tecnologías abiertas.
 El robot debe caber en un cubo de las dimensiones establecidas para cada clase. Un robot puede expandirse en tamaño una vez se da comienzo al enfrentamiento, pero no puede separarse físicamente en pedazos y debe seguir siendo un sólo robot centralizado. Los robots que no cumplan esta restricción perderán la partida. Los tornillos, tuercas y otras partes del robot con una masa total de menos de 5 gramos que caigan del cuerpo de un robot no causarán la pérdida de la partida.
-La masa total de un robot al comienzo de una partida debe estar por debajo de la especificada para cada clase.
+La masa total de un robot al comienzo de una partida debe estar por debajo de la especificada para cada clase, teniendo siempre en cuenta una tolerancia del 5%.
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">Clase</th>
       <th style="text-align: center">Altura</th>
       <th style="text-align: center">Anchura</th>
       <th style="text-align: center">Longitud</th>
@@ -80,7 +76,6 @@ La masa total de un robot al comienzo de una partida debe estar por debajo de la
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"><strong>Mini</strong></td>
       <td style="text-align: center">Ilimitada</td>
       <td style="text-align: center">10 cm</td>
       <td style="text-align: center">10 cm</td>
@@ -89,7 +84,7 @@ La masa total de un robot al comienzo de una partida debe estar por debajo de la
   </tbody>
 </table>
 <body>
-Clases autónomas: Los robots de la clase Mini (500gr) deben ser autónomos. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo). El funcionamiento autónomo del robot no debe comenzar antes de 5 segundos después de ser iniciado por el usuario. Los robots que no respeten el intervalo de los 5 segundos pierden el punto de esa ronda.
+Los robots deben ser autónomos. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo). El funcionamiento autónomo del robot no debe comenzar antes de 5 segundos después de ser iniciado por el usuario. Los robots que no respeten el intervalo de los 5 segundos pierden el punto de esa ronda.
 El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
   
 - Artículo 6.- Restricciones
@@ -104,7 +99,8 @@ El robot debe tener un nombre o número con fines de registro y seguimiento. El 
 · El uso de cualquier tipo de fuente de energía para el funcionamiento del robot que no sea la proporcionada por pilas o baterías eléctricas.
 # Sección 4: Desarrollo de las partidas
 - Artículo 7.- Desarrollo de las partidas
-Una partida consta de tres rondas, con un tiempo total de tres minutos, a menos que sea extendido por los jueces.
+Una partida consta de tres rondas, con un tiempo total de tres minutos, a menos que sea extendido por los jueces. El tiempo máximo entre cada ronda será de un minuto.
+Para el inicio de las partidas se llamará a los dos participantes un máximo de tres veces. Si pasado un minuto desde el último aviso uno de los competidores no se presenta, se dará la partida a su oponente por incomparecencia.
 El primer participante que gane dos rondas o reciba dos puntos, dentro del tiempo límite, será el ganador de la partida. Un participante recibe un punto cuando gana una ronda. Si se alcanza el límite de tiempo antes de que un participante pueda obtener dos puntos y uno de los participantes ha recibido un punto, el participante con ese punto se considera el ganador de la partida.
 Cuando haya un empate entre dos participantes y se alcance el tiempo límite, podría establecerse una nueva ronda (ronda extendida), durante la cual el participante que consiga el punto se convertirá en el ganador de la partida.
 # Sección 5: Comienzo, parada, reanudación y finalización de una ronda
@@ -121,7 +117,7 @@ Una partida debe llevarse a cabo en un total de 3 minutos, que comenzarán y fin
 Si, por decisión de los jueces, se requiera una ronda extra, ésta tendrá una duración máxima de 3 minutos.
 - Artículo 13.- Exclusións de tempo
 Lo siguiente no está incluido dentro del tiempo de partida:
-· El tiempo transcurrido desde que los jueces anuncian el punto de la ronda hasta el comienzo de la siguiente ronda. El tiempo establecido entre rondas es de 30 segundos.
+· El tiempo transcurrido desde que los jueces anuncian el punto de la ronda hasta el comienzo de la siguiente ronda. El tiempo establecido entre rondas es de 60 segundos.
 · El tiempo transcurrido desde que los jueces anuncian la parada de la ronda hasta su reanudación.
 # Sección 7: Puntuación
 - Artículo 14.- Puntuación
@@ -133,8 +129,8 @@ méritos técnicos en el movimiento y funcionamiento de un robot.
 las penalizaciones durante la ronda.
 actitud del participante durante la partida.
 La ronda se detendrá y volverá a comenzar en las siguientes condiciones:
-los robots están enredados u orbitando entre sí sin ningún progreso aparente durante 5 segundos. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de 30 segundos.
-ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 5 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos cinco segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
+los robots están enredados u orbitando entre sí sin ningún progreso aparente durante 20 segundos. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de 30 segundos.
+ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 20 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos veinte segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
 si los dos robots tocan el exterior del Dohyo más o menos al mismo tiempo, y no se puede determinar quién tocó en primer lugar, se comenzará una nueva ronda.
 # Sección 8: Faltas
 - Artículo 15.- Faltas
