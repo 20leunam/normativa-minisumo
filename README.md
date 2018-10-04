@@ -13,7 +13,7 @@ El reglamento se detalla a continuación.
 
 # Sección 1: Definición de los enfrentamintos de Sumo Robot
 - Artículo 1.- Definición
-Un enfrentamiento se libra entre dos participantes. De acuerdo con las reglas del juego (en adelante “el presente Reglamento”) cada participante compite en un Dohyo (ring de sumo) con un robot construido por el/la participante según lo especificado en la Sección 3. Las rondas comienzan a las órdenes del juez y continúa hasta que un participante gana dos puntos. El juez determina el ganador del enfrentamiento.
+Un enfrentamiento se libra entre dos participantes. De acuerdo con las reglas del juego (en adelante “el presente Reglamento”) cada participante compite en un Dohyo (ring de sumo) con un robot construido por el/la participante según lo especificado en la Sección 4. Las rondas comienzan a las órdenes del juez y continúa hasta que un participante gana dos puntos. El juez determina el ganador del enfrentamiento.
 # Sección 2: Requisitos del Dohyo
 - Artículo 2.- Interior del Dohyo
 El interior del Dohyo se define como la superficie de juego rodeada de una línea en el borde, que también forma parte de la superficie de juego. Cualquier lugar fuera de esta área se considera el exterior del Dohyo.
@@ -81,7 +81,7 @@ En función del número de participantes y del tiempo disponible para la competi
     </mrow>
     <annotation encoding="application/x-tex">{\displaystyle R=log_{2}J}</annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/220870791853ee01d7223e9b5fd2161ea357f06a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:10.318ex; height:2.509ex;" alt="{\displaystyle R=log_{2}J}"></span>, donde J es el número de participantes. Ejemplo: 4 rondas, para 16 participantes; 5, para 32; 6, para 64, etc. 
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/220870791853ee01d7223e9b5fd2161ea357f06a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:10.318ex; height:2.509ex;"></span>, donde J es el número de participantes. Ejemplo: 4 rondas, para 16 participantes; 5, para 32; 6, para 64, etc. 
 <pre>  Ronda
   1ª       2ª       3ª       4ª       5ª       6ª                     Puntuación
   ----------------------------------------------------------          ----------
