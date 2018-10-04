@@ -1,9 +1,6 @@
 ESTA NORMATIVA SE ENCUENTRA EN CONSTRUCCION. EL TEXTO QUE FIGURA A CONTINUACIÓN ES PROPIEDAD DE [BRICO-LABS](https://github.com/brico-labs) Y HACE REFERENCIA A LAS COMPETICIONES CELEBRADAS EN LA OSHWDEM. SE HA COPIADO EN ESTE REPOSITORIO CON EL OBJETIVO DE UTILIZAR COMO PLATILLA DURANTE EL DESARROLLO Y COMPATIBILIZAR LA NORMATIVA DE OPEN-ROBOSPORT CON LAS COMPETICIONES PROPIAS DE LA OSHWDEM :)
 
-# normativa_minisumo
-
 # Reglamento de Sumo (Minisumo)
-Revisión 3 (2015): vigente desde OSHWDem 2015
 
 # Objetivo
 Dos robots compiten entre sí simulando los enfrentamientos humanos de sumo. No se permite a los robots la utilización de armas ni girar sobre sí mismos, y el único objetivo es empujar al robot oponente para sacarlo del Dohyo. El torneo puede llevarse a cabo por diferentes vías, en función del número de participantes en el evento y el tiempo disponible.
@@ -150,8 +147,8 @@ Cuando se requiera la decisión de los jueces para determinar el ganador de una 
 - Las penalizaciones durante la ronda.
 - La actitud del participante durante la partida.
 La ronda se detendrá y volverá a comenzar en las siguientes condiciones:
-los robots están enredados u orbitando entre sí sin ningún progreso aparente durante 20 segundos. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de 30 segundos.
-- Ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 20 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos veinte segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. 
+los robots están enredados u orbitando entre sí sin ningún progreso aparente durante 15 segundos. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de 30 segundos.
+- Ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 15 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos veinte segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. 
 - Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
 - Si los dos robots tocan el exterior del Dohyo más o menos al mismo tiempo, y no se puede determinar quién tocó en primer lugar, se comenzará una nueva ronda.
 # Sección 9: Faltas
