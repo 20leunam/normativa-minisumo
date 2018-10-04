@@ -62,26 +62,7 @@ La línea del borde se marca como un anillo circular blanco de un ancho apropiad
 Debe haber un espacio, adecuado a cada clase de robot, fuera del borde exterior del Dohyo. Este espacio puede ser de cualquier color, material o forma. Este área, con el Dohyo en el medio, se va a llamar el “área del Dohyo” o ring. Cualquier marca o parte de la plataforma del Dohyo fuera de las dimensiones mínimas también serán considerados en el área del Dohyo.
 # Sección 3: Sistemas de clasificación.
 En función del número de participantes y del tiempo disponible para la competición, los jueces y organización podrán optar por dos sistemas:
-- Sistema suizo. Esste método se caracteriza por enfrentar a competidores con una misma puntuación, o según su participación, intentando emparejar robots de un mismo nivel. Este método puede utilizarse en eventos con un gran número de inscritos, siendo la fórmula que rige ese número mínimo de rondas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle R=log_{2}J}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>R</mi>
-        <mo>=</mo>
-        <mi>l</mi>
-        <mi>o</mi>
-        <msub>
-          <mi>g</mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mn>2</mn>
-          </mrow>
-        </msub>
-        <mi>J</mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle R=log_{2}J}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/220870791853ee01d7223e9b5fd2161ea357f06a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:10.318ex; height:2.509ex;"></span>, donde J es el número de participantes. Ejemplo: 4 rondas, para 16 participantes; 5, para 32; 6, para 64, etc. 
+- Sistema suizo. Esste método se caracteriza por enfrentar a competidores con una misma puntuación, o según su participación, intentando emparejar robots de un mismo nivel. Este método puede utilizarse en eventos con un gran número de inscritos, siendo la fórmula que rige ese número mínimo de rondas R=log₂J, donde J es el número de participantes. Ejemplo: 4 rondas, para 16 participantes; 5, para 32; 6, para 64, etc. 
 <pre>  Ronda
   1ª       2ª       3ª       4ª       5ª       6ª                     Puntuación
   ----------------------------------------------------------          ----------
@@ -97,134 +78,7 @@ En función del número de participantes y del tiempo disponible para la competi
 Cada línea indica cómo se distribuyen los participantes según su nivel de puntuación y según la ronda. Tras la primera ronda habrá 32 ganadores y, correlativamente, 32 perdedores. Al emparejar entre sí, en la ronda 2ª, a los 32 ganadores, sólo 16 entre ellos seguirán imbatidos. Y así sucesivamente.
 - Sistema de liguilla y cruces. 
 Generalmente, se organizarán los participantes en cuadros mediante sorteo. Todos los participantes de un grupo se enfrentan entre ellos, clasificando para la siguiente ronda a los robots que más puntos logren (ver sección 5). 
-<p>Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>n</mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"></span> es el número de competidores, una ronda simple de este sistema requiere <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{matrix}{\frac {n(n-1)}{2}}\end{matrix}}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mtable rowspacing="4pt" columnspacing="1em">
-            <mtr>
-              <mtd>
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mfrac>
-                    <mrow>
-                      <mi>n</mi>
-                      <mo stretchy="false">(</mo>
-                      <mi>n</mi>
-                      <mo>−<!-- − --></mo>
-                      <mn>1</mn>
-                      <mo stretchy="false">)</mo>
-                    </mrow>
-                    <mn>2</mn>
-                  </mfrac>
-                </mrow>
-              </mtd>
-            </mtr>
-          </mtable>
-        </mrow>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}{\frac {n(n-1)}{2}}\end{matrix}}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b95a9cd3bddd494ebc717f94ef54d4ca87024d9a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.243ex; margin-bottom: -0.262ex; width:6.94ex; height:4.176ex;" alt="{\displaystyle {\begin{matrix}{\frac {n(n-1)}{2}}\end{matrix}}}"></span> encuentros. Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>n</mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"></span> es un número par, entonces en <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (n-1)}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mo stretchy="false">(</mo>
-        <mi>n</mi>
-        <mo>−<!-- − --></mo>
-        <mn>1</mn>
-        <mo stretchy="false">)</mo>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle (n-1)}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df88c6333caaf6471cf277f24b802ff9931b133e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.207ex; height:2.843ex;" alt="{\displaystyle (n-1)}"></span> rondas, se pueden jugar <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{matrix}{\frac {n}{2}}\end{matrix}}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mtable rowspacing="4pt" columnspacing="1em">
-            <mtr>
-              <mtd>
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mfrac>
-                    <mi>n</mi>
-                    <mn>2</mn>
-                  </mfrac>
-                </mrow>
-              </mtd>
-            </mtr>
-          </mtable>
-        </mrow>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}{\frac {n}{2}}\end{matrix}}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2e7b67a94d37e432dab526b3e14f68ed008ceaa7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.833ex; margin-bottom: -0.172ex; width:2.574ex; height:3.176ex;" alt="{\displaystyle {\begin{matrix}{\frac {n}{2}}\end{matrix}}}"></span> partidos simultáneamente. Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>n</mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"></span> es impar, habrá <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>n</mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"></span> rondas con <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{matrix}{\frac {n-1}{2}}\end{matrix}}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mtable rowspacing="4pt" columnspacing="1em">
-            <mtr>
-              <mtd>
-                <mrow class="MJX-TeXAtom-ORD">
-                  <mfrac>
-                    <mrow>
-                      <mi>n</mi>
-                      <mo>−<!-- − --></mo>
-                      <mn>1</mn>
-                    </mrow>
-                    <mn>2</mn>
-                  </mfrac>
-                </mrow>
-              </mtd>
-            </mtr>
-          </mtable>
-        </mrow>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}{\frac {n-1}{2}}\end{matrix}}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d71bc24281ae9d4b00da15619cb1709c36c5d8d7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.036ex; margin-bottom: -0.302ex; width:4.674ex; height:3.843ex;" alt="{\displaystyle {\begin{matrix}{\frac {n-1}{2}}\end{matrix}}}"></span> juegos simultáneos y un equipo libre (sin jugar) por cada ronda.
-</p>
+<p>Si n es el número de competidores, una ronda simple de este sistema requiere (n(n-1))/2 encuentros. Si n es un número par, entonces en (n-1) rondas, se pueden jugar n/2 partidos simultáneamente. Si n es impar, habrá n rondas con ((n-1))/2 juegos simultáneos y un equipo libre (sin jugar) por cada ronda. 
 
 # Sección 4: Reglamentación para los Robots
 - Artículo 5.- Especificaciones
@@ -254,15 +108,16 @@ Los robots deben ser autónomos. Se puede utilizar cualquier método de control,
 El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
   
 - Artículo 6.- Restricciones
-· Dispositivos para crear interferencias (jamming), como LED’s IR con la intención de saturar los sensores IR del oponente.
-· Partes que puedan dañar o romper el Dohyo. Usar partes que puedan dañar intencionadamente al robot oponente o a su operador. Los empujones y golpes derivados de estos no están considerados con intención de causar daño.
-· Dispositivos que puedan almacenar líquidos, polvo, gas u otras sustancias para lanzar al oponente.
-· Dispositivos de pirotecnia.
-· Dispositivos que lancen objetos al oponente.
-· La utilización de sustancias pegajosas para incrementar la tracción.
-· El uso de dispositivos para incrementar el “efecto suelo”, como bombas de vacío o imanes.
-· El uso de bordes afilados, incluidos pero no limitados a la pala frontal, que puedan dañar el Dohyo, otros robots o a los participantes. Los bordes que, a criterio de los jueces, se consideren que pueden causar daño deberán ser cubiertos con algún tipo de cinta.
-· El uso de cualquier tipo de fuente de energía para el funcionamiento del robot que no sea la proporcionada por pilas o baterías eléctricas.
+- Dispositivos para crear interferencias (jamming), como LED’s IR con la intención de saturar los sensores IR del oponente.
+- Partes que puedan dañar o romper el Dohyo. Usar partes que puedan dañar intencionadamente al robot oponente o a su operador.
+- Los empujones y golpes derivados de estos no están considerados con intención de causar daño.
+- Dispositivos que puedan almacenar líquidos, polvo, gas u otras sustancias para lanzar al oponente.
+- Dispositivos de pirotecnia.
+- Dispositivos que lancen objetos al oponente.
+- La utilización de sustancias pegajosas para incrementar la tracción.
+- El uso de dispositivos para incrementar el “efecto suelo”, como bombas de vacío o imanes.
+- El uso de bordes afilados, incluidos pero no limitados a la pala frontal, que puedan dañar el Dohyo, otros robots o a los participantes. Los bordes que, a criterio de los jueces, se consideren que pueden causar daño deberán ser cubiertos con algún tipo de cinta.
+- El uso de cualquier tipo de fuente de energía para el funcionamiento del robot que no sea la proporcionada por pilas o baterías eléctricas.
 # Sección 5: Desarrollo de las partidas
 - Artículo 7.- Desarrollo de las partidas
 Una partida consta de tres rondas, con un tiempo total de tres minutos, a menos que sea extendido por los jueces. El tiempo máximo entre cada ronda será de un minuto.
@@ -288,16 +143,17 @@ Lo siguiente no está incluido dentro del tiempo de partida:
 # Sección 8: Puntuación
 - Artículo 14.- Puntuación
 Un punto se otorga cuando:
-Un participante fuerza al robot contrincante a tocar el área fuera del Dohyo, incluyendo el borde lateral del mismo.
-El robot contrincante, por sí mismo, toca el área fuera del Dohyo, incluyendo el borde lateral del mismo. Se mantiene esta norma hasta que se anuncia el final de la ronda.
+- Un participante fuerza al robot contrincante a tocar el área fuera del Dohyo, incluyendo el borde lateral del mismo.
+- El robot contrincante, por sí mismo, toca el área fuera del Dohyo, incluyendo el borde lateral del mismo. Se mantiene esta norma hasta que se anuncia el final de la ronda.
 Cuando se requiera la decisión de los jueces para determinar el ganador de una ronda se tendrán en cuenta las siguientes consideraciones:
-méritos técnicos en el movimiento y funcionamiento de un robot.
-las penalizaciones durante la ronda.
-actitud del participante durante la partida.
+- Méritos técnicos en el movimiento y funcionamiento de un robot.
+- Las penalizaciones durante la ronda.
+- La actitud del participante durante la partida.
 La ronda se detendrá y volverá a comenzar en las siguientes condiciones:
 los robots están enredados u orbitando entre sí sin ningún progreso aparente durante 20 segundos. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de 30 segundos.
-ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 20 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos veinte segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
-si los dos robots tocan el exterior del Dohyo más o menos al mismo tiempo, y no se puede determinar quién tocó en primer lugar, se comenzará una nueva ronda.
+- Ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 20 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos veinte segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. 
+- Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
+- Si los dos robots tocan el exterior del Dohyo más o menos al mismo tiempo, y no se puede determinar quién tocó en primer lugar, se comenzará una nueva ronda.
 # Sección 9: Faltas
 - Artículo 15.- Faltas
 Los participantes que realicen cualquiera de los hechos descritos en los Artículos 6, 16 o 17, serán amonestados por saltarse este reglamento.
@@ -305,14 +161,15 @@ Los participantes que realicen cualquiera de los hechos descritos en los Artícu
 Un participante que profiere insultos al oponente o a los jueces, o pone voces en el robot que pronuncie palabras insultantes, o que aparezcan escritas en el cuerpo del robot, o que realice gestos insultantes, se considera una falta por incumplimiento de este reglamento.
 -  Artículo 17.- Faltas leves
 Se considera una falta leve cuando un participante:
-· Entra en el Dohyo durante la ronda, excepto cuando el participante lo hace pararecoger el robot fuera del Dohyo una vez el juez anunció la asignación del punto o para la ronda. Entrar en el Dohyo significa:
-·una parte del cuerpo del participante está en el Dohyo.
+- Entra en el Dohyo durante la ronda, excepto cuando el participante lo hace pararecoger el robot fuera del Dohyo una vez el juez anunció la asignación del punto o para la ronda. 
+Entrar en el Dohyo significa:
+- Una parte del cuerpo del participante está en el Dohyo.
 un participante utiliza algún mecanismo para tocar el Dohyo.
-· Realiza las siguientes acciones:
-·Exige parar la ronda sin razones aparentes.
-·Tarda más de 30 segundos para comenzar la ronda, a menos que el juez incremente el tiempo.
-·Poner en funcionamiento el robot dentro de los cinco segundos después de que el juez anuncia el comienzo de la ronda.
-·Hacer alusiones a la imparcialidad de la ronda, la partida o el torneo.
+- Realiza las siguientes acciones:
+- Exige parar la ronda sin razones aparentes.
+- Tarda más de 30 segundos para comenzar la ronda, a menos que el juez incremente el tiempo.
+- Poner en funcionamiento el robot dentro de los cinco segundos después de que el juez anuncia el comienzo de la ronda.
+- Hacer alusiones a la imparcialidad de la ronda, la partida o el torneo.
 # Sección 10: Penalizaciones
 - Artículo 18.- Penalizaciones
 Los jugadores que incumplan los artículos 6 y 16 del presente reglamento perderán la partida y serán descalificados del torneo. El juez otorga dos puntos al oponente.
@@ -335,4 +192,5 @@ Siempre y cuando se respeten el concepto y fundamentos de las reglas, estas debe
 
 *Esta obra está bajo una licencia de Creative Commons Reconocimiento 4.0 Internacional.
 
-*Reglamento derivado de Unified Sumo Robot Rules.
+*Reglamento derivado de Unified Sumo Robot Rules, Normativa Minisumo Robolid, Oshwdem. 
+*Otras fuentes: Wikipedia
